@@ -62,6 +62,8 @@ next-expo-monorepo/
 This monorepo uses central path aliases for easier imports:
 
 ```
+```text
+
 import { Button } from '@ui/Button';
 import { useAuth } from '@hooks/useAuth';
 import { API_URL } from '@constants/api';
