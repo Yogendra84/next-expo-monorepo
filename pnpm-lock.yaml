@@ -20,6 +20,12 @@ importers:
 
   apps/native:
     dependencies:
+      '@repo/constants':
+        specifier: workspace:*
+        version: link:../../packages/constants
+      '@repo/hooks':
+        specifier: workspace:*
+        version: link:../../packages/hooks
       '@repo/store':
         specifier: workspace:*
         version: link:../../packages/storage
@@ -115,6 +121,18 @@ importers:
       typescript:
         specifier: 5.9.2
         version: 5.9.2
+
+  packages/constants:
+    dependencies:
+      '@repo/types':
+        specifier: workspace:*
+        version: link:../types
+      react:
+        specifier: ^19
+        version: 19.2.0
+      zustand:
+        specifier: ^5.0.11
+        version: 5.0.11(@types/react@19.2.14)(react@19.2.0)(use-sync-external-store@1.6.0(react@19.2.0))
 
   packages/hooks:
     dependencies:

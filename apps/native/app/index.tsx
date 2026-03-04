@@ -1,6 +1,7 @@
 import { StyleSheet, Text, View } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import { Button } from "@repo/ui";
+import { USERS } from "@repo/constants";
 
 export default function Native() {
   return (
@@ -13,6 +14,10 @@ export default function Native() {
         }}
         text="Boop"
       />
+      <Text>
+        {USERS[0].fullname}
+        {USERS[0].age}
+      </Text>
       <StatusBar style="auto" />
     </View>
   );
